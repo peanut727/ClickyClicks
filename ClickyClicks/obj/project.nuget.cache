@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "V/ju6kUnIdycQ8mTf4FDG9HFeekeVLLWL9XGKOnPeJPWQ7NRGhVxUW5XvHklJyfNEFDhDK+1xoDJogPSzxOeVg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\peanut\\source\\repos\\ClickyClicks\\ClickyClicks\\ClickyClicks.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\peanut\\.nuget\\packages\\mousekeyhook\\5.7.1\\mousekeyhook.5.7.1.nupkg.sha512"
+  ],
+  "logs": []
+}

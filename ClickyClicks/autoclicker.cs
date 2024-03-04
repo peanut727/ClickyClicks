@@ -16,6 +16,7 @@ namespace ClickyClicks
         private const int LEFTDOWN = 0x0002;
         public int clicker_interval;
         public bool Click = false;
+        //dagis
 
 
         public async Task Clicker()
